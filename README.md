@@ -1,16 +1,14 @@
-# reachgoal
+#  Check your daily tasks accomplishment with this app
 
-A new Flutter project.
 
-## Getting Started
+## This project was made by Belxz777 its my first flutter project 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# I hope that you will like that but apparently i am wrong about that 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Anyway i was exited when i was building that a and i actually got a lot of experience while i was working on them
+
+
+### This project use Isar db , powerful tool for create cross platform databases 
+
